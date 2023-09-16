@@ -18,11 +18,11 @@ body {
 
 .nav-link:hover {
     font-family: "Roboto", sans-serif;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 24px;
-        letter-spacing: 0.32px;
-        color: #404bbf;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    color: #404bbf;
 }
 
 .nav-link:focus {
@@ -168,18 +168,19 @@ body {
 
 .text-fin {
     line-height: 1.5;
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
-.secttion-fin {
+.section-fin {
     background-color: #2e2f42;
 }
+
  .team-list {
     background-color: #ffffff;
  }
 
  .studio-logo-fin {
-color: #2e2f42;
+color: #f4f4fd;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -187,3 +188,28 @@ color: #2e2f42;
     letter-spacing: 0.54px;
     text-transform: uppercase;
  }
+
+ .adress-style {
+    font-style: normal;
+ }
+
+ .link-post {
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
+    color: #434455;
+ }
+
+  .link-post:hover {
+      font-size: 16px;
+      line-height: 1, 5;
+      letter-spacing: 0, 02em;
+      color: #404bbf;
+  }
+
+   .link-post:focus {
+       font-size: 16px;
+       line-height: 1, 5;
+       letter-spacing: 0, 02em;
+       color: #404bbf;
+   }
